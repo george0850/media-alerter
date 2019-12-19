@@ -1,2 +1,10 @@
-# media-alerter
-This is a codeless programming project created by CrossUI GitHub
+## media-alerter
+Web app url : https://george0850.github.io/media-alerter
+
+This project was created by CrossUI No-Code App Builder: https://crossui.com/RADGithub
+
+Based on template: https://linb.github.io/CrossUI_Assets/assets/projects/Simple/xui_project_tpl_SandboxTheme
+
+Click [here](https://crossui.com/RADGithub/#!from=github&owner=george0850&repo=media-alerter) to edit this web app in CrossUI No-Code App Builder
+
+<i>Powered by [CrossUI](https://crossui.com)</i>
